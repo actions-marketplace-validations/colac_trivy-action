@@ -1,4 +1,4 @@
-name: 'Aqua Security Trivy'
+name: 'GH Trivy latest - testing'
 description: 'Scans container images for vulnerabilities with Trivy'
 author: 'Aqua Security'
 inputs:
